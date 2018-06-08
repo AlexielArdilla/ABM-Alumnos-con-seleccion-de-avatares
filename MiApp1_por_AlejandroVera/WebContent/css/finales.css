@@ -1,0 +1,41 @@
+/**Estilo finales jsp**/
+table {
+    font-family: sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.titulo{
+	text-align: center !important;
+}
+
+td{
+    border: 1px solid #000000;
+    text-align: left;
+   padding: 2px;
+    font-weight: bold;
+    font-size:x-large;
+    color: white;
+}
+
+th{
+  border: 1px solid #000000;
+    text-align: center;
+   padding: 1px;
+  color: black; 
+  font-family:Cambria;
+  font-size:x-large;
+  font-color:black;
+ }
+
+tr:nth-child(even) {
+    background-color: #0c0c4f;
+}
+
+/* Para parpadear el color junto a js*/
+.invalid-blink {
+    background-color: red !important;
+}
+
+.button {background:#ef6f53; color:#fff; font-size:18px; line-height:24px; padding:4px 12px 10px 12px; display:inline-block;}
+.button:hover {background:#636f6f; }
