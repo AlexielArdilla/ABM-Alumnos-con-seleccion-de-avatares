@@ -3,3 +3,8 @@ Proyecto de gestión de alumnos con selección de avatares (gestiona los finales
 
 ### Les dejo el video del funcionamiento: 🔧
 [Ver en youtube ir](https://www.youtube.com/watch?v=3TmNe4m7Km0)
+
+## Autor: ✒️
+* [Alejandro G. Vera](https://linkedin.com/in/alejandro-gonzalo-vera/)
+<br/></br>
+# Enjoy!
