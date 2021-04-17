@@ -5,9 +5,6 @@ __Proyecto de gestión de alumnos con selección de avatares (gestiona los final
 ![logo_peque3mas](https://user-images.githubusercontent.com/10841467/64068509-7326a900-cc0f-11e9-9df4-aa6b323c4eb7.jpg)
 
 
-### Les dejo el video del funcionamiento: 🔧
-[Ver en youtube ir](https://www.youtube.com/watch?v=3TmNe4m7Km0)
-
 ## Autor: ✒️
 * [Alejandro G. Vera](https://linkedin.com/in/alejandro-gonzalo-vera/)
 <br/></br>
